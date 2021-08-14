@@ -8,6 +8,8 @@ body {
   background: #efdbb6;
   font-family: 'Noto Sans TC', sans-serif;
   display: flex;
+  width: 100vw;
+
   overflow-x: hidden;
 
   flex-direction: column;
