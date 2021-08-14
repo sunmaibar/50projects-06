@@ -8,6 +8,8 @@ body {
   background: #efdbb6;
   font-family: 'Noto Sans TC', sans-serif;
   display: flex;
+  overflow-x: hidden;
+
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -24,7 +26,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow-x: hidden;
   width: 400px;
   height: 200px;
   margin: 10px;
